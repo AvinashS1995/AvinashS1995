@@ -15,7 +15,7 @@ I have experience working in Agile teams, collaborating with backend developers 
 I’m always learning and improving my skills in advanced Angular and performance optimization.
 
 * 🌍  I'm based in Ahmedabad, Gujarat
-* 🖥️  See my portfolio at [NexaProfile](http://https://nexa-profile-sage.vercel.app)
+* 🖥️  See my portfolio at [NexaProfile](http://nexa-profile-sage.vercel.app)
 * ✉️  You can contact me at [ai.suryawanshi95@gmail.com](mailto:ai.suryawanshi95@gmail.com)
 * 🧠  I'm currently learning Tailwind CSS utility-first CSS framework and Backend Technologies like .NET Core Web API, MySQL and Node.js, Express.js, MongoDB
 * 👥  I'm looking to collaborate on Enterprises Projects, Dashboard based and Saas based Projets
